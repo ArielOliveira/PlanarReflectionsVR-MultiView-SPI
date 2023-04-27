@@ -1,14 +1,14 @@
-///////////////////////////////////////////////////////////////////////////////
-//                                                                           //
-// Planar Reflections Probe for Unity                                        //
-//                                                                           //
-// Author: Ariel Corrêa                                                      //
-// Date: Apil 27, 2023                                                       //
-// Last Update: April 27, 2023                                               //
-// Email: ariel.oliveira01@gmail.com                                         //
-// Repository: https://github.com/eldskald/planar-reflections-unity          //
-//                                                                           //
-///////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                    //
+// Planar Reflections Probe for Unity                                                 //
+//                                                                                    //
+// Author: Ariel Corrêa                                                               //
+// Date: Apil 27, 2023                                                                //
+// Last Update: April 27, 2023                                                        //
+// Email: ariel.oliveira01@gmail.com                                                  //
+// Repository: https://github.com/ArielOliveira/PlanarReflectionsVR-MultiView-SPI.git //
+//                                                                                    //
+////////////////////////////////////////////////////////////////////////////////////////
 
 using UnityEngine;
 using UnityEngine.XR;
