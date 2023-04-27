@@ -13,6 +13,4 @@ half4 GetReflectionTexture(float4 screenPos) {
         return SAMPLE_TEXTURE2D(_RightReflCameraTex, sampler_RightReflCameraTex, uv);
 }
 
-uniform float3 _StereoCamPosWS;
-
 #endif 
